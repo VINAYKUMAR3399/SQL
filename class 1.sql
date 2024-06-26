@@ -1,0 +1,19 @@
+SHOW DATABASES;
+
+DDL: DATA DEFINITION LANGUAGE.
+1) CREATE: DATABASE AND TABLES.
+
+/*Syntax for creating database
+CREATE DATABASE database_name*/
+
+CREATE DATABASE jun_10;
+
+
+
+
+
+
+
+
+
+

@@ -13,6 +13,8 @@ insert Airport_details values(5,'chennai',1,5,2500);
 insert Airport_details values(6,'goa',1,6,6400);
 insert Airport_details values(7,'kochi',1,7,3000);
 insert Airport_details values(8,'kalcutta',1,8,5600);
+insert Airport_details values(9,'delhi',4,2,2000);
+insert Airport_details values(10,'maharastra',6,3,2000);
 
 
 create database Metro;
@@ -25,8 +27,14 @@ select * from Metro;
 insert Metro values(1,'guthi',1,12) ;
 insert Metro values(2,'guntakal',2,10);
 insert Metro values(3,'golkonda',3,9);
-insert Metro values(4,'zoopy',4,8);
+insert Metro values(4,'cubbon',4,8);
 insert Metro values(5,'secunderbad',5,9);
+insert Metro values(6,'kbstation',6,3);
+insert Metro values(8,'hindupur',5,9);
+insert Metro values(2,'banglore',3,7);
+insert Metro values(1,'jayanagar',1,10);
+insert Metro values(3,'silkboared',2,11);
+
 
 
 
